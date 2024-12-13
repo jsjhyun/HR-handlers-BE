@@ -75,7 +75,7 @@
 
 #### 게시판
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 09 16" src="https://github.com/user-attachments/assets/a6e351d7-42ea-4872-944f-f8f4a33778dc" />
-<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 32" src="https://github.com/user-attachments/assets/3c864d5c-66be-48d8-bb84-dd7bd892e710" />
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 12" src="https://github.com/user-attachments/assets/ea8719bb-a7ab-40f1-8601-5b6f2738ecbf" />
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 09 23" src="https://github.com/user-attachments/assets/a3da7211-f716-4bb4-b20a-5a51b221474d" />
 
 </br>
