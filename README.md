@@ -1,6 +1,6 @@
-## 👋인사잘해팀 : HR(human resources)
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 12" src="https://github.com/user-attachments/assets/ea4bc024-4c4b-4d8b-9972-27a1f1d47156" />## 👋인사잘해팀 : HR(human resources)
 ### 프로젝트 소개
-![인사잘해](https://media.discordapp.net/attachments/1303967846027755560/1316651649569132595/2024-12-12_3.23.22.png?ex=675bd2e7&is=675a8167&hm=eaf69c79a2c4b9311af7fc45d8d98b58633597eed4e75d7c6e4225e7b45b4f91&=&format=webp&quality=lossless&width=883&height=295)
+<img width="1021" alt="스크린샷 2024-12-14 오전 5 57 44" src="https://github.com/user-attachments/assets/d4b97a5d-14ac-4738-8033-5a701300c7ce" />
 > 인사 및 근태 관리를 통합한 사내 HR 프로그램!
 
 본 프로젝트는 사내 인사 및 근태 관리를 효율화하기 위해 개발된 HR 시스템입니다.
@@ -12,6 +12,7 @@
 **접속 가능한 계정**
 - 이상해 사원
   - **ID** : 20241216
+
   - **PW** : 123123123
 
 ---
@@ -27,76 +28,47 @@
 ---
 
 ### 팀원 소개
-| 이름 (Name) | 역할 (Role)  | 담당 도메인 (Domain) | 
-  |-----------|------------|-----------------|
-| 정현        | 팀장 (Leader) | 사원              | 
-| 한현        | 팀원 (Member) | 메신저             | 
-| 이서율       | 팀원 (Member) | 게시판             |  
-| 송진욱       | 팀원 (Member) | 근태/휴가/일정        | 
-| 김준수       | 팀원 (Member) | 급여              | 
+<img width="1110" alt="스크린샷 2024-12-14 오전 5 55 44" src="https://github.com/user-attachments/assets/37bea112-12e5-44fe-82ae-c384fd1d00d4" />
 
 ---
 
 ### 기술 스택
-- **Frontend** : React, Bootstrap, HTML, CSS, Javascript
-- **Backend** : Java, JPA, Spring Boot, Spring Security, JWT, Websocket, STOMP, MyBatis, QueryDSL
-- **Storage** : AWS S3, MariaDB
-- **Deployment**: GCP, Nginx
-
----
-
-### 와이어프레임
-![와이어프레임](https://github.com/user-attachments/assets/794f6b45-ce24-4aec-a9ec-80a0aacc2d6e)
+<img width="1146" alt="스크린샷 2024-12-14 오전 5 59 47" src="https://github.com/user-attachments/assets/d386e950-93e2-4da4-a958-0c4281988c15" />
 
 ---
 
 ### ERD
-![인사잘해_ERD_](/uploads/02993122af3cce8752d894a98631465c/인사잘해_ERD_.png)
+<img width="1165" alt="스크린샷 2024-12-14 오전 5 58 42" src="https://github.com/user-attachments/assets/b36badfe-8b17-4da0-9893-36e7e8621c93" />
 
 ---
 
 ### 📌주요 기능
 ##### 홈
-![hr-handlers_10](/uploads/5df10ef9a1d9656df9426fd17570c0f0/hr-handlers_10.png)
+<img width="852" alt="스크린샷 2024-12-14 오전 6 02 45" src="https://github.com/user-attachments/assets/d9ec1e27-99ca-4a06-b8a5-0b63d8e6a158" />
 
 ##### 사원
-![hr-handlers_11](/uploads/24f7d7faff86bc1816fbef7bb70a9905/hr-handlers_11.png)
-![hr-handlers_12](/uploads/f44ad89dc51e191336aec4eb9b41c131/hr-handlers_12.png)
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 08 28" src="https://github.com/user-attachments/assets/fbe2fdad-3c74-4cf8-94f7-20a92b74a7c8" />
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 08 40" src="https://github.com/user-attachments/assets/72341ca3-ade6-407b-9c98-ce21c9ccacda" />
 
 ##### 근태
-![hr-handlers_14](/uploads/044ffe42a4dca1675c6f85818f5b5ce4/hr-handlers_14.png)
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 08 55" src="https://github.com/user-attachments/assets/7cf50f58-43ab-411a-829c-d3b78b73b01d" />
 
 ##### 일정
-![hr-handlers_16](/uploads/c12f644c1ba6dd5439d154ccae9dfe4e/hr-handlers_16.png)
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 07" src="https://github.com/user-attachments/assets/fc396c76-653a-43f7-be30-ef04dfe85979" />
 
 ##### 휴가
-![hr-handlers_15](/uploads/5ce354b1da20c284867ecb266f3b4d5c/hr-handlers_15.png)
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 02" src="https://github.com/user-attachments/assets/685c8063-437a-4d45-baa1-011e7cce6da9" />
 
 ##### 게시판
-![hr-handlers_17](/uploads/b4f1099f094ed07bbc68cf6336c4c5c4/hr-handlers_17.png)
-![hr-handlers_18](/uploads/15d2cdec2928799fd5b49cef752dfd33/hr-handlers_18.png)
-![hr-handlers_19](/uploads/0de69facb6f0db972a68ae06023d2ca5/hr-handlers_19.png)
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 16" src="https://github.com/user-attachments/assets/a6e351d7-42ea-4872-944f-f8f4a33778dc" />
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 32" src="https://github.com/user-attachments/assets/3c864d5c-66be-48d8-bb84-dd7bd892e710" />
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 23" src="https://github.com/user-attachments/assets/a3da7211-f716-4bb4-b20a-5a51b221474d" />
 
 ##### 메신저
-![hr-handlers_13](/uploads/6412eb338426f22c78a915231904e039/hr-handlers_13.png)
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 08 47" src="https://github.com/user-attachments/assets/44169d6a-557b-4a93-b3a2-3f73074010a4" />
 
 ##### 급여
-![hr-handlers_20](/uploads/52685a2fed9bcdc8c95bbf62436d8e91/hr-handlers_20.png)
-![hr-handlers_21](/uploads/2dccde247ddfb746f6f715c4c73aae24/hr-handlers_21.png)
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 28" src="https://github.com/user-attachments/assets/8ea83bff-edff-4490-a77a-a37a2b47abe1" />
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 32" src="https://github.com/user-attachments/assets/3ee15749-2a61-4bbd-9b30-a9754a0c2080" />
 
 ---
-
-### 🚨트러블슈팅
-#### 출근/퇴근 시간이 서버시간과 다르게 9시간전으로 저장되는 이슈 
-**시도해본 것**
-1. Nginx 서버 시간 UTC -> KST 타임존 변경 
-  
-   - 서버 시간은 변경 되었지만, 동일한 문제 발생
-
-2. 데이터 베이스 시간 변경 
-   - 변경 시 오류가 없던 다른 도메인 시간대가 9시간 전으로 변경 되는 다른 문제 발생
-
-**해결 방법**
-
-시간대를 저장하는 Service 부분에 명시적으로 한국시간을 설정해주는 코드로 변경
-`LocalDateTime.now(ZoneId.of("Asia/Seoul"))`
