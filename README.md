@@ -1,4 +1,3 @@
-<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 12" src="https://github.com/user-attachments/assets/ea4bc024-4c4b-4d8b-9972-27a1f1d47156" />## 👋인사잘해팀 : HR(human resources)
 ### 프로젝트 소개
 <img width="1021" alt="스크린샷 2024-12-14 오전 5 57 44" src="https://github.com/user-attachments/assets/d4b97a5d-14ac-4738-8033-5a701300c7ce" />
 > 인사 및 근태 관리를 통합한 사내 HR 프로그램!
@@ -28,46 +27,46 @@
 ---
 
 ### 팀원 소개
-<img width="1110" alt="스크린샷 2024-12-14 오전 5 55 44" src="https://github.com/user-attachments/assets/37bea112-12e5-44fe-82ae-c384fd1d00d4" />
+<img width="1181" alt="스크린샷 2024-12-14 오전 6 16 24" src="https://github.com/user-attachments/assets/81ce52a1-547e-4e2e-9966-b9905c1e3e28" />
 
 ---
 
 ### 기술 스택
-<img width="1146" alt="스크린샷 2024-12-14 오전 5 59 47" src="https://github.com/user-attachments/assets/d386e950-93e2-4da4-a958-0c4281988c15" />
+<img width="1281" alt="스크린샷 2024-12-14 오전 6 17 01" src="https://github.com/user-attachments/assets/2b471213-4ef5-4521-b8a8-4afaf77d34cb" />
 
 ---
 
 ### ERD
-<img width="1165" alt="스크린샷 2024-12-14 오전 5 58 42" src="https://github.com/user-attachments/assets/b36badfe-8b17-4da0-9893-36e7e8621c93" />
+<img width="1234" alt="스크린샷 2024-12-14 오전 6 17 33" src="https://github.com/user-attachments/assets/ca98c5ff-47ff-46d0-b23b-13fe236ab6df" />
 
 ---
 
 ### 📌주요 기능
-##### 홈
+#### 홈
 <img width="852" alt="스크린샷 2024-12-14 오전 6 02 45" src="https://github.com/user-attachments/assets/d9ec1e27-99ca-4a06-b8a5-0b63d8e6a158" />
 
-##### 사원
+#### 사원
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 08 28" src="https://github.com/user-attachments/assets/fbe2fdad-3c74-4cf8-94f7-20a92b74a7c8" />
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 08 40" src="https://github.com/user-attachments/assets/72341ca3-ade6-407b-9c98-ce21c9ccacda" />
 
-##### 근태
+#### 근태
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 08 55" src="https://github.com/user-attachments/assets/7cf50f58-43ab-411a-829c-d3b78b73b01d" />
 
-##### 일정
+#### 일정
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 09 07" src="https://github.com/user-attachments/assets/fc396c76-653a-43f7-be30-ef04dfe85979" />
 
-##### 휴가
+#### 휴가
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 09 02" src="https://github.com/user-attachments/assets/685c8063-437a-4d45-baa1-011e7cce6da9" />
 
-##### 게시판
+#### 게시판
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 09 16" src="https://github.com/user-attachments/assets/a6e351d7-42ea-4872-944f-f8f4a33778dc" />
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 09 32" src="https://github.com/user-attachments/assets/3c864d5c-66be-48d8-bb84-dd7bd892e710" />
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 09 23" src="https://github.com/user-attachments/assets/a3da7211-f716-4bb4-b20a-5a51b221474d" />
 
-##### 메신저
+#### 메신저
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 08 47" src="https://github.com/user-attachments/assets/44169d6a-557b-4a93-b3a2-3f73074010a4" />
 
-##### 급여
+#### 급여
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 09 28" src="https://github.com/user-attachments/assets/8ea83bff-edff-4490-a77a-a37a2b47abe1" />
 <img width="1324" alt="스크린샷 2024-12-14 오전 6 09 32" src="https://github.com/user-attachments/assets/3ee15749-2a61-4bbd-9b30-a9754a0c2080" />
 
